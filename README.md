@@ -6,7 +6,7 @@
 > *Publisher*: Springer, 2025
 > *Series*: *Probability Theory and Stochastic Modelling*
 
-|  Book title:       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
+|  Book title:       |Lectures on Monte Carlo Theory  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              |
 |--------------------|------------------------------------------------|
 |  **Book title**       |Lectures on Monte Carlo Theory                |
 | **Authors**        | Paweł Lorek and Tomasz Rolski                 |
