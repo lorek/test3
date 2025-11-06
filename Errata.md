@@ -50,6 +50,16 @@ AA $$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$ BB $p\!=\!Q(k/2,\,W(\mathrm{obs}
 
 * $p = Q(k\kern-0.15em/\kern-0.15em2,\; W(\mathrm{obs})\kern-0.15em/\kern-0.15em2)$
 
+NOWE:
+
+* $p = Q(k\mathord{/}2,\; W(\mathrm{obs})\mathord{/}2)$
+
+* $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$
+
+* $p = Q(k\text{/}2,\; W(\mathrm{obs})\text{/}2)$
+
+
+
 
 ---
 
