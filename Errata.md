@@ -1,4 +1,4 @@
-# Errata for *Lectures on Monte Carlo Theory* Lectures on Monte Carlo Theory
+# Errata for *Lectures on Monte Carlo Theory*
 
 <table>
 <tr>
@@ -24,8 +24,7 @@
 
 
 
-This file records corrections or clarifications found after publication.
-Page and figure numbers refer to the printed edition.
+## This file records corrections or clarifications found after publication. Page and figure numbers refer to the printed edition.
 
 ---
 
