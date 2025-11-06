@@ -40,7 +40,7 @@ Page and figure numbers refer to the printed edition.
 $p=Q\left(k/2, 2W(\mathrm{obs})\right)$ .....
 
 **Correct version:**
-AA $$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$ BB $p\!=\!Q(k/2,\,W(\mathrm{obs})/2)$ ... CC: $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$ k/2 $k$/2
+AA $$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$ BB $p\!=\!Q(k/2,\,W(\mathrm{obs})/2)$ ... CC: $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$ k/2 $k$/$2$
 
 
 
