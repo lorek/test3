@@ -42,6 +42,13 @@ $p=Q\left(k/2, 2W(\mathrm{obs})\right)$ .....
 **Correct version:**
 AA $$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$ BB $p\!=\!Q(k/2,\,W(\mathrm{obs})/2)$ ... CC: $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$ k/2 $k$/$2$
 
+* $p = Q(k⁄2,\; W(\mathrm{obs})⁄2)$
+
+* $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$
+
+* $p = Q(k\mathord{/}2,\; W(\mathrm{obs})\mathord{/}2)$
+
+* $p = Q(k\kern-0.15em/\kern-0.15em2,\; W(\mathrm{obs})\kern-0.15em/\kern-0.15em2)$
 
 
 ---
