@@ -34,31 +34,9 @@ Page and figure numbers refer to the printed edition.
 ---
 
 ### 📄 Page 91 — Exercise 2.T.10
-**Issue:** Minor formatting inconsistency in the final expression.
-**Printed version:** `p=Q(k/2, 2W(obs))` asdf *asdf* $t_1$ $p$
-**Correct version:** `p=Q(k/2,2W(obs))`
-*(Removed an unnecessary space inside math mode.)*
-
----
-
-### 📄 Page 129 — Figure 3.5 (left)
-**Issue:** The labels `t₁` and `t₂` are interchanged.
-**Correction:** `t₁` should be the lower angle and `t₂` the upper one.
-*(Applies only to the left panel of Fig. 3.5; the right panel is correct.)*
-
----
-
-# Errata for *Lectures on Monte Carlo Theory*
-
-This file records corrections or clarifications found after publication.
-Page and figure numbers refer to the printed edition.
-
----
-
-### 📄 Page 91 — Exercise 2.T.10
-**Issue:** Incorrect expression for the *p*-value.
+**Issue:** Incorrect expression for the $p$-value.
 **Printed version:**
-$$ p = Q\!\left(\frac{k}{2}, 2W(\mathrm{obs})\right) $$
+$p = Q\!\left(\frac{k}{2}, 2W(\mathrm{obs})\right) $
 **Correct version:**
 $$ p = Q\!\left(\frac{k}{2}, \frac{W(\mathrm{obs})}{2}\right) $$
 *(The second argument of \( Q \) should be \( W(\mathrm{obs})/2 \), not \( 2W(\mathrm{obs}) \).)*
