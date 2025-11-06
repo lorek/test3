@@ -35,11 +35,14 @@ Page and figure numbers refer to the printed edition.
 
 ### 📄 Page 91 — Exercise 2.T.10
 **Issue:** Incorrect expression for the $p$-value.
+
 **Printed version:**
-$p = Q\!\left(\frac{k}{2}, 2W(\mathrm{obs})\right) $
+$p=Q\left(k/2, 2W(\mathrm{obs})\right)$
+
 **Correct version:**
-$$ p = Q\!\left(\frac{k}{2}, \frac{W(\mathrm{obs})}{2}\right) $$
-*(The second argument of \( Q \) should be \( W(\mathrm{obs})/2 \), not \( 2W(\mathrm{obs}) \).)*
+$$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$
+
+
 
 ---
 
