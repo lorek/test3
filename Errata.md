@@ -37,26 +37,9 @@ Page and figure numbers refer to the printed edition.
 **Issue:** Incorrect expression for the $p$-value.
 
 **Printed version:**
-$p=Q\left(k/2, 2W(\mathrm{obs})\right)$ .....
-
+$p=Q(k\text{/}2, 2W(\mathrm{obs}))$
 **Correct version:**
-AA $$p = Q\left(k/2, W(\mathrm{obs})/2\right)$$ BB $p\!=\!Q(k/2,\,W(\mathrm{obs})/2)$ ... CC: $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$ k/2 $k$/$2$
-
-* $p = Q(k⁄2,\; W(\mathrm{obs})⁄2)$
-
-* $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$
-
-* $p = Q(k\mathord{/}2,\; W(\mathrm{obs})\mathord{/}2)$
-
-* $p = Q(k\kern-0.15em/\kern-0.15em2,\; W(\mathrm{obs})\kern-0.15em/\kern-0.15em2)$
-
-NOWE:
-
-* $p = Q(k\mathord{/}2,\; W(\mathrm{obs})\mathord{/}2)$
-
-* $p = Q(k\!/\!2,\; W(\mathrm{obs})\!/\!2)$
-
-* $p = Q(k\text{/}2,\; W(\mathrm{obs})\text{/}2)$
+$p=Q(k\text{/}2,W(\mathrm{obs})\text{/}2)$
 
 
 
