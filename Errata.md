@@ -56,7 +56,7 @@ $p=Q(k\text{/}2,W(\mathrm{obs})\text{/}2)$
 
 **Issue:** Missing ${1\over 2}$ term.
 
-**Printed version:** This parameterization automatically ensures that   $\mathbf{\Sigma}' \mathbf{\Sigma}$
+**Printed version:** This parameterization automatically ensures that   $\mathbf{\Sigma}'\succ \mathbf{\Sigma}$
 
 **Correct version:** This parameterization automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$
 
