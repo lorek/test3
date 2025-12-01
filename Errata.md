@@ -66,7 +66,7 @@ automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$"
 
 **Issue:** Wrong function name in **Require**
 
-**Correction:** Replace "real-valued function $s$" with $real-valued function $h$"
+**Correction:** Replace "real-valued function $s$" with "real-valued function $h$"
 
 ---
 
