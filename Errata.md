@@ -58,7 +58,7 @@ $p=Q(k\text{/}2,W(\mathrm{obs})\text{/}2)$
 
 **Correction:** Should be "This parameterization
 automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$"
-(instead of " $\mathbf{\Sigma}'\mathbf{\Sigma}$")
+(instead of " $\mathbf{\boldsymbol{\Sigma}}'\succ \mathbf{\Sigma}$")
 
 ---
 
