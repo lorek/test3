@@ -56,9 +56,10 @@ $p=Q(k\text{/}2,W(\mathrm{obs})\text{/}2)$
 
 **Issue:** Missing ${1\over 2}$ term.
 
-**Correction:** Should be "This parameterization
-automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$"
-(instead of " $\mathbf{\boldsymbol{\Sigma}}'\succ \mathbf{\Sigma}$")
+**Printed version:** This parameterization automatically ensures that   $\mathbf{\Sigma}' \mathbf{\Sigma}$
+
+**Correct version:** This parameterization automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$
+
 
 ---
 
@@ -67,6 +68,11 @@ automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$"
 **Issue:** Wrong function name in **Require**
 
 **Correction:** Replace "real-valued function $s$" with "real-valued function $h$"
+
+**Printed version:** real-valued function $s$
+
+**Correct version:** real-valued function $h$
+
 
 ---
 
