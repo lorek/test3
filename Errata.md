@@ -52,7 +52,18 @@ $p=Q(k\text{/}2,W(\mathrm{obs})\text{/}2)$
 ---
 
 
-_Last updated: November 2025_
+### 📄 Page 326 — Remark 5.1.51
+
+**Issue:** Missing ${1\over 2}$ term.
+
+**Correction:** Should be "This parameterization
+automatically ensures that   $\mathbf{\Sigma}'\succ{1\over 2}\mathbf{\Sigma}$"
+(instead of " $\mathbf{\Sigma}'\mathbf{\Sigma}$")
+
+---
+
+
+_Last updated: December 2025_
 
 
 
